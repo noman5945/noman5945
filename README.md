@@ -9,9 +9,6 @@
 
 - 💬 Ask me about **Web Development, MERN Stack Development, Front-end Development etc.**
 
-
-- 📄 Know about my experiences [Here]([https://drive.google.com/file/d/1BF9SeUzITz-eiOUtQB_iZfq6DGCQ4Z86/view?usp=sharing](https://drive.google.com/file/d/12PrCndyd2ZodNg8ugJA9IogmRneP5Dwh/view?usp=drive_link)).
-
 - 📫 How to reach me **abdullahnoman.5945@gmail.com**
 
 <p align="left"> 
