@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abdullahnoman.5945@gmail.com**
 
-- My first and old account (this account got corrupted somehow- **https://github.com/noman27**)
+- My first and old account (this account got corrupted somehow)- **https://github.com/noman27**
 
 <p align="left"> 
   <a href="https://www.facebook.com/noman5945">
